@@ -1,0 +1,32 @@
+.authentication{
+    position: fixed;
+    
+}
+
+.auth__more{
+    position: relative;
+    border: 1px solid white;
+    display: flex;
+    margin-top: 30%;
+    margin-left: 40px;
+    margin-right: 70%;
+    padding: 10px;
+    text-align: end;
+    
+}
+
+.btn{
+    background: rgb(69, 69, 243);
+    border-radius: 10%;
+    padding: 10px;
+    margin-left: 15px;
+
+}
+.auth__right{
+    flex: 0.5;
+}
+
+/* .auth__left{
+    flex: 0.5;
+    text-align: center;
+} */
